@@ -40,6 +40,7 @@ To train the model and visualize results:
 
 ```python
 # View python notebook
+
 YOLO.ipynb
 ```
 
