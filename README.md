@@ -39,7 +39,8 @@ This project implements a miniaturized version of the YOLO (You Only Look Once) 
 To train the model and visualize results:
 
 ```python
-python main.py
+# View python notebook
+YOLO.ipynb
 ```
 
 This script will:
